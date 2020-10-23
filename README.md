@@ -26,4 +26,4 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
     https://github.com/github1586/nuxt-bnhcp
     
 ## 页面
-![image.png](https://liuer1211.github.io/vue_ssr/show/1.png)
+![image.png](https://github.com/liuer1211/vueSSR/tree/master/show/1.png)
