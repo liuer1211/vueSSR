@@ -3,17 +3,17 @@
 ## Build Setup
 
 ```bash
-# install dependencies
+# 下载依赖
 $ npm install
 
-# serve with hot reload at localhost:3000
+# 运行访问 localhost:3000
 $ npm run dev
 
-# build for production and launch server
+# 打包
 $ npm run build
 $ npm run start
 
-# generate static project
+# 静态文件
 $ npm run generate
 ```
 
