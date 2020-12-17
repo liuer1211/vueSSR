@@ -28,7 +28,7 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 ## 页面
 ![image.png](https://github.com/liuer1211/vueSSR/tree/master/show/1.png)
 
-## 优势
+## 优势 
     2、nuxt.js的优势
     1）就是我们无需为了路由划分而烦恼，你只需要按照对应的文件夹层级创建 .vue 文件就行
     2）无需考虑数据传输问题，nuxt 会在模板输出之前异步请求数据（需要引入 axios 库），而且对 vuex 有进一步的封装
